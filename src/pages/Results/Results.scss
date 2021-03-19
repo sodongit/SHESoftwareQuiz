@@ -1,0 +1,16 @@
+.results {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  h1 {
+    text-align: center;
+    font-weight: 300;
+    margin: 0 0 64px 0;
+    font-size: 48px;
+  }
+  div {
+    display: flex;
+    justify-content: center;
+  }
+}
